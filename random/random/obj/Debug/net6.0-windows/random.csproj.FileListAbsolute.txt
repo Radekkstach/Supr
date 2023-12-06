@@ -1,0 +1,16 @@
+G:\PROgramovani\random\random\bin\Debug\net6.0-windows\random.exe
+G:\PROgramovani\random\random\bin\Debug\net6.0-windows\random.deps.json
+G:\PROgramovani\random\random\bin\Debug\net6.0-windows\random.runtimeconfig.json
+G:\PROgramovani\random\random\bin\Debug\net6.0-windows\random.dll
+G:\PROgramovani\random\random\bin\Debug\net6.0-windows\random.pdb
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.Form1.resources
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.csproj.GenerateResource.cache
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.AssemblyInfoInputs.cache
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.AssemblyInfo.cs
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.csproj.CoreCompileInputs.cache
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.dll
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\refint\random.dll
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.pdb
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\random.genruntimeconfig.cache
+G:\PROgramovani\random\random\obj\Debug\net6.0-windows\ref\random.dll
